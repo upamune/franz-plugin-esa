@@ -1,0 +1,25 @@
+{
+  "name": "esa.io",
+  "version": "1.0.0",
+  "description": "esa.io",
+  "main": "index.js",
+  "author": "Yu Serizawa <jajkeqos@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamID}.esa.io",
+    "serviceName": "esa.io",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": true,
+    "wording": {
+      "url": "esa.io",
+      "team": "esa.io"
+    },
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": true
+  }
+}
